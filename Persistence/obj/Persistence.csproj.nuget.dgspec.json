@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {}
+    "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
+    "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj",
-        "projectName": "Persistence",
-        "projectPath": "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Namiq\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\C#\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "d:\\repos\\C#\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Namiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,71 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Namiq\\.nuget\\packages\\",
+        "outputPath": "d:\\repos\\C#\\Reactivities\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Namiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
