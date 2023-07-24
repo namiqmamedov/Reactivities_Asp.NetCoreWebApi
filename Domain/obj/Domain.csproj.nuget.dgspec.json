@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {}
+    "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
+    "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Namiq\\.nuget\\packages\\",
-        "outputPath": "d:\\repos\\C#\\Reactivities\\Domain\\obj\\",
+        "outputPath": "D:\\repos\\C#\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Namiq\\AppData\\Roaming\\NuGet\\NuGet.Config",

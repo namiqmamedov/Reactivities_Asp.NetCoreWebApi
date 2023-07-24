@@ -31,11 +31,11 @@
               "D:\\repos\\C#\\Reactivities\\Application\\Application.csproj": {
                 "projectPath": "D:\\repos\\C#\\Reactivities\\Application\\Application.csproj"
               },
-              "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj"
+              "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj"
               },
-              "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj"
+              "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
+    "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Namiq\\.nuget\\packages\\",
-        "outputPath": "d:\\repos\\C#\\Reactivities\\Domain\\obj\\",
+        "outputPath": "D:\\repos\\C#\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Namiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -198,14 +198,14 @@
         }
       }
     },
-    "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
+    "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Namiq\\.nuget\\packages\\",
-        "outputPath": "d:\\repos\\C#\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "D:\\repos\\C#\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Namiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,8 +222,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj"
+              "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -238,6 +238,12 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.9, )"

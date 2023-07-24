@@ -13,3 +13,5 @@ D:\repos\C#\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll
 D:\repos\C#\Reactivities\Persistence\bin\Debug\net7.0\Domain.dll
 D:\repos\C#\Reactivities\Persistence\bin\Debug\net7.0\Domain.pdb
 D:\repos\C#\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\repos\C#\Reactivities\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+D:\repos\C#\Reactivities\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
