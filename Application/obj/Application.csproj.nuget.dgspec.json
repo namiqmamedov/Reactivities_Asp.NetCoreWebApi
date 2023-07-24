@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\C#\\Reactivities\\Application\\Application.csproj": {}
+    "d:\\repos\\C#\\Reactivities\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\repos\\C#\\Reactivities\\Application\\Application.csproj": {
+    "d:\\repos\\C#\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\C#\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "d:\\repos\\C#\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\repos\\C#\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "d:\\repos\\C#\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Namiq\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\C#\\Reactivities\\Application\\obj\\",
+        "outputPath": "d:\\repos\\C#\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Namiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,15 +21,14 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj"
+              "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj"
               },
               "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
                 "projectPath": "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj"
@@ -47,6 +46,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[11.1.0, )"
@@ -76,14 +79,14 @@
         }
       }
     },
-    "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
+    "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Namiq\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\C#\\Reactivities\\Domain\\obj\\",
+        "outputPath": "d:\\repos\\C#\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Namiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,8 +164,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj"
+              "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }

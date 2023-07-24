@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "l685i0geGIlUMhzxL59O4yM2EnlMraEOEcJVra/UHU+RCJu2KDFog6iqTwLeevTdu2SZirrYZ8KfcpjCKPPiLg==",
+  "dgSpecHash": "c3VlOCX9nUbB9HC75VPSFEJHBd5KHU1hxITd7Z0bMZSWn+D7KVbiM9BGiDL7lgVCzTTYnm73tteT84+5Y7/+LA==",
   "success": true,
-  "projectFilePath": "D:\\repos\\C#\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "d:\\repos\\C#\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Namiq\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Namiq\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Namiq\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.9\\microsoft.data.sqlite.core.7.0.9.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",

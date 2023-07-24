@@ -10,10 +10,5 @@ namespace Persistence
         }
 
         public DbSet<Activity> Activities { get; set; }
-
-        public Task<List<Activity>> ToListAsync()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
