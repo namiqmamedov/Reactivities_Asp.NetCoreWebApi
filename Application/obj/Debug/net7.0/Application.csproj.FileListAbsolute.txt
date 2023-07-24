@@ -10,3 +10,8 @@ D:\repos\C#\Reactivities\Application\obj\Debug\net7.0\Application.dll
 D:\repos\C#\Reactivities\Application\obj\Debug\net7.0\refint\Application.dll
 D:\repos\C#\Reactivities\Application\obj\Debug\net7.0\Application.pdb
 D:\repos\C#\Reactivities\Application\obj\Debug\net7.0\ref\Application.dll
+D:\repos\C#\Reactivities\Application\bin\Debug\net7.0\Domain.dll
+D:\repos\C#\Reactivities\Application\bin\Debug\net7.0\Persistence.dll
+D:\repos\C#\Reactivities\Application\bin\Debug\net7.0\Domain.pdb
+D:\repos\C#\Reactivities\Application\bin\Debug\net7.0\Persistence.pdb
+D:\repos\C#\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CopyComplete

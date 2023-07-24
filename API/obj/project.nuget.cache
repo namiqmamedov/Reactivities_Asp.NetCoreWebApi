@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hzDe9ssHvDKxtypiln5Duj0D9YOfgigXO1NSdw5yOTeJfGkGuShbkHzAoqgd/dbrdQ2M4+ccgNJ07IbrnLZCxA==",
+  "dgSpecHash": "etI6Dii/TF7dujUPiOi2PQXcj/rPoTe6i/MtxTaVp8Ei3ySI76GHXxTLV+/H0vCMVQWYCOaFPMUIYpP8rVLI1Q==",
   "success": true,
   "projectFilePath": "D:\\repos\\C#\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Namiq\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Namiq\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Namiq\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Namiq\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.9\\microsoft.data.sqlite.core.7.0.9.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
