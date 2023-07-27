@@ -30,8 +30,8 @@
               "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
                 "projectPath": "d:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj"
               },
-              "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj"
+              "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -49,6 +49,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
             },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -140,14 +144,14 @@
         }
       }
     },
-    "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
+    "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "d:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Namiq\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\C#\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "d:\\repos\\C#\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Namiq\\AppData\\Roaming\\NuGet\\NuGet.Config",

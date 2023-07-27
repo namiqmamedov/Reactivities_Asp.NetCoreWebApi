@@ -76,3 +76,8 @@ D:\repos\C#\Reactivities\API\bin\Debug\net7.0\MediatR.Contracts.dll
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\appsettings.Development.json
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\appsettings.json
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\AutoMapper.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\FluentValidation.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
