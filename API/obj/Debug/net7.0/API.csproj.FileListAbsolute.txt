@@ -81,3 +81,9 @@ D:\repos\C#\Reactivities\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.De
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\FluentValidation.dll
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
