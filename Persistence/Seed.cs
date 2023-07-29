@@ -34,7 +34,7 @@ namespace Persistence
 
                 foreach (var user in users)
                 {
-                    await userManager.CreateAsync(user, "Pa$$w0rd");
+                    await userManager.CreateAsync(user, "namiq114");
                 }
 
                 var activities = new List<Activity>
