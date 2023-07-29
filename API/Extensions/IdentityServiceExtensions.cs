@@ -34,7 +34,7 @@ namespace API.Extensions
                {
                    opt.TokenValidationParameters = new TokenValidationParameters
                    {
-                        ValidateIssuerSigningKey = true,
+                        ValidateIssuerSigningKey = true, // this is then going to validate that token is valid token.otherwise it will accept any old toekn signed or not signed
                         IssuerSigningKey = key,
                         ValidateIssuer = false,
                         ValidateAudience = false,

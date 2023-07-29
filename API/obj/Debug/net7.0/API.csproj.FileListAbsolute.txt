@@ -95,3 +95,5 @@ D:\repos\C#\Reactivities\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dl
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Infrastructure.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Infrastructure.pdb

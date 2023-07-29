@@ -1098,6 +1098,19 @@
           "bin/placeholder/Domain.dll": {}
         }
       },
+      "Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.dll": {}
+        }
+      },
       "Persistence/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -2882,6 +2895,11 @@
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
     },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
+    },
     "Persistence/1.0.0": {
       "type": "project",
       "path": "../Persistence/Persistence.csproj",
@@ -2894,6 +2912,7 @@
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "Domain >= 1.0.0",
       "FluentValidation.AspNetCore >= 11.3.0",
+      "Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.9",
       "Microsoft.AspNetCore.OpenApi >= 7.0.5",
       "Microsoft.EntityFrameworkCore >= 7.0.9",
@@ -2909,11 +2928,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\repos\\C#\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "D:\\repos\\C#\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "d:\\repos\\C#\\Reactivities\\API\\API.csproj",
+      "projectPath": "D:\\repos\\C#\\Reactivities\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Namiq\\.nuget\\packages\\",
-      "outputPath": "d:\\repos\\C#\\Reactivities\\API\\obj\\",
+      "outputPath": "D:\\repos\\C#\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Namiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2923,17 +2942,21 @@
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "d:\\repos\\C#\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "d:\\repos\\C#\\Reactivities\\Application\\Application.csproj"
+            "D:\\repos\\C#\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "D:\\repos\\C#\\Reactivities\\Application\\Application.csproj"
             },
             "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj": {
               "projectPath": "D:\\repos\\C#\\Reactivities\\Domain\\Domain.csproj"
+            },
+            "D:\\repos\\C#\\Reactivities\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\repos\\C#\\Reactivities\\Infrastructure\\Infrastructure.csproj"
             },
             "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj": {
               "projectPath": "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj"
