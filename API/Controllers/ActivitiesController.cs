@@ -12,7 +12,7 @@ using Persistence;
 
 namespace API.Controllers
 {
-    public class ActivitiesController : BaseApiController
+    public class ActivitiesController : BaseApiController                                                              
     {
         [HttpGet]
         public async Task<IActionResult> GetActivities()
@@ -53,6 +53,5 @@ namespace API.Controllers
         {
             return HandleResult(await Mediator.Send(new UpdateAttendance.Command{Id = id}));
         }
-
     }
 }
