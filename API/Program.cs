@@ -1,5 +1,6 @@
 using API.Extensions;
 using API.Middleware;
+using API.SignalR;
 using Application.Activities;
 using Application.Core;
 using Domain;
@@ -33,6 +34,7 @@ app.UseAuthentication();
 app.UseAuthorization();
  
 app.MapControllers();
+app.MapHub<ChatHub>("/chat");
 
 using var scope = app.Services.CreateScope(); // access to data context.When is finished cleaned memory (garbage collector)
 var services = scope.ServiceProvider;
