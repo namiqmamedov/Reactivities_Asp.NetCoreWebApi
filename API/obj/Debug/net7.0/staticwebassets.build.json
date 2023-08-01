@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xhwMqYfKAcBjnBd2KK3NihtCcAACDhHmJ7n4wEXSLYQ=",
+  "Hash": "/VfoRxmw03rjwYTDQxayGyn26cE+mgTwz8WqHYBmHkE=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -323,6 +323,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-4444ed0b.js"
     },
     {
+      "Identity": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\assets\\index-4c0ac581.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-4c0ac581.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-4c0ac581.js"
+    },
+    {
       "Identity": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\assets\\index-b1f42d1d.css",
       "SourceId": "API",
       "SourceType": "Discovered",
@@ -389,6 +406,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\index-ef496a75.js"
+    },
+    {
+      "Identity": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\assets\\logo-main-31f9f77c.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/logo-main-31f9f77c.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\logo-main-31f9f77c.jpg"
+    },
+    {
+      "Identity": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\assets\\logo-main.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/logo-main.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\logo-main.jpg"
     },
     {
       "Identity": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\assets\\logo.png",

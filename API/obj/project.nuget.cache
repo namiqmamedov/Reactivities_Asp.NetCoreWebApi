@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mhnjI+VLeJYl/uSmRjNkwPG2GXpnu9ZfL5bhqXrKj64jV1hqgFyju1ymZaZTv151pAPklDCJ/Cn1fzmHTGdhjA==",
+  "dgSpecHash": "Ia/xY7M6CmOl53npwlaCWlpdGbbBLtTOtso16m9TUeExILGY6v3VO69KLFRm5eS/U+hR7AcPb76VyCvq+2l1UA==",
   "success": true,
   "projectFilePath": "D:\\repos\\C#\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -57,6 +57,8 @@
     "C:\\Users\\Namiq\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Namiq\\.nuget\\packages\\nwebsec.aspnetcore.core\\3.0.0\\nwebsec.aspnetcore.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\Namiq\\.nuget\\packages\\nwebsec.aspnetcore.middleware\\3.0.0\\nwebsec.aspnetcore.middleware.3.0.0.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",

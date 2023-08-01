@@ -102,3 +102,5 @@ D:\repos\C#\Reactivities\API\obj\Debug\net7.0\ref\API.dll
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Npgsql.dll
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\NWebsec.AspNetCore.Core.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\NWebsec.AspNetCore.Middleware.dll
