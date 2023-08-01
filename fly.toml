@@ -13,6 +13,7 @@ primary_region = "otp"
   ASPNETCORE_URLS="http://+:8080"
   Cloudinary__Cloudname="namiq"
   Cloudinary__ApiKey="623852422154834"
+  Facebook__AppId="150890864658576"
 
 [http_service]
   internal_port = 8080

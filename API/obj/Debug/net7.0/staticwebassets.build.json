@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/VfoRxmw03rjwYTDQxayGyn26cE+mgTwz8WqHYBmHkE=",
+  "Hash": "7OyyvannBkeYcCW123ER+Hz/3G5Q9ac68H1+uF/h8z0=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -338,6 +338,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\index-4c0ac581.js"
+    },
+    {
+      "Identity": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\assets\\index-61eb4924.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-61eb4924.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-61eb4924.js"
     },
     {
       "Identity": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\assets\\index-b1f42d1d.css",
