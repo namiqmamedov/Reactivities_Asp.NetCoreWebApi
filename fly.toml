@@ -1,0 +1,23 @@
+# fly.toml app configuration file generated for reactivities-app on 2023-08-01T18:48:19+04:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = "reactivities-app"
+primary_region = "otp"
+
+[build]
+  image = "namiq/reactivities:latest"
+
+[env]
+  ASPNETCORE_URLS="http://+:8080"
+  Cloudinary__Cloudname="namiq"
+  Cloudinary__ApiKey="623852422154834"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ["app"]

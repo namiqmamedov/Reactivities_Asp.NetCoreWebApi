@@ -32,9 +32,13 @@ app.UseCors("CorsPolicy");
 
 app.UseAuthentication();
 app.UseAuthorization();
+
+app.UseDefaultFiles();
+app.UseStaticFiles();
  
 app.MapControllers();
 app.MapHub<ChatHub>("/chat");
+app.MapFallbackToController("Index","Fallback");
 
 using var scope = app.Services.CreateScope(); // access to data context.When is finished cleaned memory (garbage collector)
 var services = scope.ServiceProvider;

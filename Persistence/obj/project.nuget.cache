@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4RZG3cza4NezYvIB+7jL5JN2mLItbsV5oTiqLTopnjwmx3uvqukgezDi8uz/OF4VRv9BkeXDj4psF1Gmvx/ONg==",
+  "dgSpecHash": "9neSgsqnDkxYpr2zl7dND54zptq7XMq8h+w3J2K7QQ/STz6N5tC/VKlA/p6cxafEJz0Eth5FLjpU6+Kfs33fZg==",
   "success": true,
   "projectFilePath": "D:\\repos\\C#\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,8 @@
     "C:\\Users\\Namiq\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Namiq\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Namiq\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
