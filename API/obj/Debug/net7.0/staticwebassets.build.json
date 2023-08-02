@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7OyyvannBkeYcCW123ER+Hz/3G5Q9ac68H1+uF/h8z0=",
+  "Hash": "TYBlEpU7kVofIO4TB3o7+U7zsRKQyuhu/6kCL6mC5mo=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -304,6 +304,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\icons-cb7f81f5.ttf"
+    },
+    {
+      "Identity": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\assets\\index-3139cde4.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-3139cde4.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-3139cde4.js"
     },
     {
       "Identity": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\assets\\index-4444ed0b.js",
