@@ -14,6 +14,7 @@ primary_region = "otp"
   Cloudinary__Cloudname="namiq"
   Cloudinary__ApiKey="623852422154834"
   Facebook__AppId="150890864658576"
+  Sendgrid__User="techzip13"
 
 [http_service]
   internal_port = 8080

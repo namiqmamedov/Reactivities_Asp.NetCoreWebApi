@@ -104,3 +104,5 @@ D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Npgsql.dll
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\NWebsec.AspNetCore.Core.dll
 D:\repos\C#\Reactivities\API\bin\Debug\net7.0\NWebsec.AspNetCore.Middleware.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\SendGrid.dll
+D:\repos\C#\Reactivities\API\bin\Debug\net7.0\StarkbankEcdsa.dll

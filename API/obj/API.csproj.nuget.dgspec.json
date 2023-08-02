@@ -311,6 +311,10 @@
             "CloudinaryDotNet": {
               "target": "Package",
               "version": "[1.21.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
             }
           },
           "imports": [
