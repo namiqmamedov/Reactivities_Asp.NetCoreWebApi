@@ -22,16 +22,13 @@ var app = builder.Build();
 // Configure the HTTP request pipeline. 
 app.UseMiddleware<ExceptionMiddleware>();
 
-const string modernizrHash = "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=";
-const string modernizrHash1 = "sha256-e6v1SBY0/nWORF0cSCN2iKUc90hYDPlQUe8okJKLZcY=";
-
 app.UseXContentTypeOptions();
 app.UseReferrerPolicy(opt => opt.NoReferrer());
 app.UseXXssProtection(opt => opt.EnabledWithBlockMode());
 app.UseXfo(opt => opt.Deny());
-app.UseCspReportOnly(opt => opt 
+app.UseCsp(opt => opt 
     .BlockAllMixedContent()
-    .StyleSources(s => s.Self().CustomSources("https://fonts.googleapis.com", modernizrHash, modernizrHash1))
+    .StyleSources(s => s.Self().CustomSources("https://fonts.googleapis.com", "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=", "sha256-e6v1SBY0/nWORF0cSCN2iKUc90hYDPlQUe8okJKLZcY="))
     .FontSources(s => s.Self().CustomSources("https://fonts.gstatic.com", "data:"))
     .FormActions(s => s.Self())
     .FrameAncestors(s => s.Self())
