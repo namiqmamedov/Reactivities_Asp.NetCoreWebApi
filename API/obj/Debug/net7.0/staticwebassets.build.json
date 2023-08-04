@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TYBlEpU7kVofIO4TB3o7+U7zsRKQyuhu/6kCL6mC5mo=",
+  "Hash": "c3hGMl/EQXN2ujvY7MRk3e9EdsgrRarA/N1Rvr5R958=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -408,6 +408,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-d04ba9bc.js"
     },
     {
+      "Identity": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\assets\\index-dfe8a48d.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-dfe8a48d.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-dfe8a48d.js"
+    },
+    {
       "Identity": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\assets\\index-e1834ad1.css",
       "SourceId": "API",
       "SourceType": "Discovered",
@@ -423,6 +440,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\index-e1834ad1.css"
+    },
+    {
+      "Identity": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\assets\\index-eb563c06.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-eb563c06.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-eb563c06.js"
     },
     {
       "Identity": "D:\\repos\\C#\\Reactivities\\API\\wwwroot\\assets\\index-ef496a75.js",
